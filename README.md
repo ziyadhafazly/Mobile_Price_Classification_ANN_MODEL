@@ -243,7 +243,3 @@ Bachelor of Software Engineering Honours
 
 ------------------------------------------------------------------------
 
-## 📌 Note
-
-This project was completed as part of **Lesson 6 - Task 1: Build and
-Train a Simple ANN Model**.
